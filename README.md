@@ -16,19 +16,19 @@ Em suma, O Malvão é mais do que apenas uma lanchonete: é um ponto de encontro
 <section id="inicio" class="my-5">
         <div class="inicio-fundo d-flex justify-content-between align-items-center">
                 <div class="esquerda-conteudo">
-                        <h1 class="display-4 text-white fst-italic fw-bold">Boas-vindas a</h1>
-                        <img src="img/logo-2.png" class="mb-3" width="563"
+                        <h1 class="display-4 text-white fst-italic fw-bold">Imagens da lanchonete</h1>
+                        <img src="img/Image Creation - Leonardo.Ai.html" class="mb-3" width="563"
                                 height="278" loading="lazy">
                         <a href="#tropicalia"
-                                class="btn btn-primary btn-lg botao-inicio fw-semibold">Quero conhecer!</a>
+                                class="btn btn-primary btn-lg botao-inicio fw-semibold"></a>
                 </div>
-                <img src="img/lossy-page1-640px-Os_Mutantes.tif (1).png" class="img-fluid img-inicio">
+                <img src="Image Creation - Leonardo.Ai.html" class="img-fluid img-inicio">
             </div>
 </section>
 <section id="tropicalia" class="my-5 pt-6 secao-tropicalia">
         <div class="container d-flex align-items-center ">
                 <div class="col-4 d-flex justify-content-center">
-                        <img src="img/image (1).png" class="rounded-pill" alt="" width="273" height="331" loading="lazy">
+                        <img src="Image Creation - Leonardo.Ai.html" class="rounded-pill" alt="" width="273" height="331" loading="lazy">
                 </div>
                 <div class="col-5">
                         <h2>O que foi o Malvadão?</h2>
@@ -39,42 +39,16 @@ A ideia por trás do "Malvadão" era proporcionar uma opção de lazer acessíve
 Em algumas referências, "Malvadão" também pode ser associado ao nome de um grupo de amigos ou até mesmo a uma gíria local usada para descrever a vibração irreverente e descontraída dos encontros promovidos. O evento, com o tempo, ganhou popularidade, tornando-se uma marca registrada de Ponta Grossa, especialmente entre os jovens e os moradores</p>
                 </div>
         </div>
-</section>
-
-<section id="galeria">
-        <h2 class="text-center pt-5">Galeria</h2>
-        <div class="container p-3 mt-3 fundo-galeria ">
-
-                <div class="row justify-content-md-center">
-                        <div class="col-md-4">
-                                <img src="img/lossy-page1-640px-Jorge_Ben_e_o_Trio_Mocotó_no_Teatro_da_Lagoa,_1971.tif.jpg"
-                                        class="img-fluid rounded-5" loading="lazy">
-                        </div>
-                        <div class="col-md-4">
-                                <img src="img/lossy-page1-640px-Os_Mutantes_2.tif.jpg" class="img-fluid rounded-5"
-                                        loading="lazy">
-                        </div>
-                </div>
-                <div class="row mt-4  justify-content-md-center">
-                        <div class="col-md-4">
-                                <img src="img/lossy-page1-640px-Gilberto_Gil_nos_anos_1960.tif.jpg" class="img-fluid rounded-5" loading="lazy">
-                        </div>
-                        <div class="col-md-4">
-                                <img src="img/lossy-page1-640px-Caetano_Veloso_no_III_Festival_da_Música_Popular.tif.jpg"
-                                        class="img-fluid rounded-5" loading="lazy">
-                        </div>
-                </div>
-         </div>
+</section>                
 </section>
 <section id="inicio" class="my-5">
         <div class="inicio-fundo d-flex justify-content-between align-items-center">
                 <div class="esquerda-conteudo">
-                        <h1 class="display-4 text-white fst-italic fw-bold">Boas-vindas a</h1>
-                        <img src="img/logo-2.png" class="mb-3" width="563"
+                        <h1 class="display-4 text-white fst-italic fw-bold">Veja algumas fotos</h1>
+                        <img src="Image Creation - Leonardo.Ai.html" class="mb-3" width="563"
                                 height="278" loading="lazy">
                         <a href="#tropicalia"
-                                class="btn btn-primary btn-lg botao-inicio fw-semibold">Quero conhecer!</a>
+                                class="btn btn-primary btn-lg botao-inicio fw-semibold"></a>
                 </div>
-                <img src="img/lossy-page1-640px-Os_Mutantes.tif (1).png" alt="A imagem apresenta o grupo musical Os mutantes, sao tres pessoas cantando em  dois microfones" title="Os mutantes - CC0 Domínio Público / Acervo Arquivo Nacional" class="img-fluid img-inicio">
-            </div>
+
 </section>
